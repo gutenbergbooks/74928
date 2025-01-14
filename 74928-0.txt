@@ -1,6 +1,4 @@
-﻿
 *** START OF THE PROJECT GUTENBERG EBOOK 74928 ***
-
 
 
 [Illustration: Bramley & Parker’s Specification. English patent. No.
@@ -7684,23 +7682,6 @@ that the rider has not improved as rapidly as have the machines.
 
   • Text enclosed by underscores is in italics (_italics_).
   • Text enclosed by pluses is in small caps (+small caps+).
-
-  Page   Alteration
-  -----+------------------------------------------------------------------
-     7  Sturmy “Faed,” the Pennels, ==> Sturmey, “Faed,” the Pennels,
-        (see https://en.wikipedia.org/wiki/Henry_Sturmey, and comma added)
-    31 826  bone-skaker ==> bone-shaker
-    61 1644 dotted lines _e_ and _g_ ==> dotted lines _c_ and _g_
-   151 4293  he conclude ==> he concludes
-   187 5377  the calvary ==> the cavalry
-   188 5400  entirely german ==> entirely germane
-   193 5538  his wordly ==> his worldly
-   200 5756  from the cyclist ==> from _The Cyclist_
-   203 5878  all down grade, ==> all down grades,
-   213 6081  repeated heading removed
-   227 6358  are suported ==> are supported
-   231 6425  Letters Pattent ==> Letters Patent
-
 
 
 *** END OF THE PROJECT GUTENBERG EBOOK 74928 ***
